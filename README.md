@@ -6,7 +6,7 @@ Soy Julián Rodríguez de Colombia, tecnólogo en sistemas y Developer full Stac
   
   <section align="center">
       
-  <h2> Tecnologias utilizada: </h2>
+  <h2> Tecnologias utilizada: </h2><br/>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/107125191/221668669-ea044d47-07ca-40b1-8f5e-2933514075c2.png" alt="Node.js" height="50" /></a>     
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50" /></a> 
@@ -22,7 +22,7 @@ Soy Julián Rodríguez de Colombia, tecnólogo en sistemas y Developer full Stac
   <hr><section align="center">
   
 
-Quieres saber más de mi? ¡Contáctame!
+Quieres saber más de mi? ¡Contáctame!<br/>
 WP: +57 3226400155
 Email: info3226400155@gmail.com
 
