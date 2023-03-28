@@ -7,6 +7,7 @@ Soy Julián Rodríguez de Colombia, tecnólogo en sistemas y Developer full Stac
   <section align="center">
       
   <h2> Tecnologias utilizada: </h2><br/>
+  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://desarrolloweb.com/storage/tag_images/actual/BzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png" alt="TypeScript" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/107125191/221668669-ea044d47-07ca-40b1-8f5e-2933514075c2.png" alt="Node.js" height="50" /></a>     
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50" /></a> 
@@ -16,7 +17,6 @@ Soy Julián Rodríguez de Colombia, tecnólogo en sistemas y Developer full Stac
   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" height="50" /></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/107125191/221682735-b852ea85-f882-493f-a762-db4750deb8b8.png" alt="PostgreSQL" height="50" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/107125191/221685458-89cd6aa7-fcbf-4a78-a0d0-fd7eeac88ba2.png" alt="MongoDB" height="50" /></a> 
-  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://desarrolloweb.com/storage/tag_images/actual/BzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png" alt="TypeScript" height="50" /></a> 
   </section>
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=zevek&show_icons=true&theme=dracula" alt="stats" height="150"> -->
   <hr><section align="center"><br/>
