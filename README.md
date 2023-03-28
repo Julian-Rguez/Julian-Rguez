@@ -19,11 +19,11 @@ Soy Julián Rodríguez de Colombia, tecnólogo en sistemas y Developer full Stac
   <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://desarrolloweb.com/storage/tag_images/actual/BzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png" alt="TypeScript" height="50" /></a> 
   </section>
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=zevek&show_icons=true&theme=dracula" alt="stats" height="150"> -->
-  <hr><section align="center">
+  <hr><section align="center"><br/>
   
 
 Quieres saber más de mi? ¡Contáctame!<br/>
-WP: +57 3226400155
+WP: +57 3226400155<br/>
 Email: info3226400155@gmail.com
 
 
