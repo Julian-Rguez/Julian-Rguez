@@ -1,24 +1,10 @@
-https://user-images.githubusercontent.com/107125191/183408353-b1db1469-d97b-4b1d-92e6-535350854173.png
-
-Soy Julián Rodríguez de Colombia, tecnólogo en sistemas y Developer full Stack, trabajo en el área de soporte en redes de datos, la cual no me ocupa mucho tiempo al día, gracias a que desarrollo mis propias herramientas, donde pongo a prueba mis habilidades para dar solución a conflictos reales en mi trabajo implementado incluso tecnologías desconocidas para mí. En este proceso he aprendido a usar lenguajes como C# que son complemetos a lenguajes y tecnologias recientemente aprendidas como HTML 5, CSS, JavaScript, React, Node JS,  Mongo DB, MySQL, Sequelize SQL, C#.
-
-
-
-Quieres saber más de mi? ¡Contáctame!
-WP: +57 3226400155
-Email: info3226400155@gmail.com
-
-
 
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/107125191/183408353-b1db1469-d97b-4b1d-92e6-535350854173.png" height="150"/>  </p>
+  <img src="https://images.vexels.com/media/users/3/236231/isolated/preview/5b1c3bffa604aab44d0030cac9f8fdfe-bienvenido-letras-en-espanol.png" height="150"/>  </p>
 
-  <h1 align="center">Welcome to my GitHub! </h1>
-  <section align="center">
+Soy Julián Rodríguez de Colombia, tecnólogo en sistemas y Developer full Stack, trabajo en el área de soporte en redes de datos, la cual no me ocupa mucho tiempo al día, gracias a que desarrollo mis propias herramientas, donde pongo a prueba mis habilidades para dar solución a conflictos reales en mi trabajo implementado incluso tecnologías desconocidas para mí. En este proceso he aprendido a usar lenguajes como C# que son complemetos a lenguajes y tecnologias recientemente aprendidas como HTML 5, CSS, JavaScript, React, Node JS,  Mongo DB, MySQL, Sequelize SQL, C#.
   
- 👋 Hey everyone! I'm Adrián Suárez. I'm 24 years old and my goal is never stop learning new things 😉
-
- 🌱 I am currently working and learning about JavaScript, TypeScript, data structures, sorting algorithms, HTML, CSS, React, Redux, Webpack, Node.js, Express, Sequelize and PostgreSQL at Henry, an immersive full-stack bootcamp <br>
+ 
   
   <section align="center">
       
@@ -34,12 +20,12 @@ Email: info3226400155@gmail.com
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/107125191/221682735-b852ea85-f882-493f-a762-db4750deb8b8.png" alt="PostgreSQL" height="50" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/107125191/221685458-89cd6aa7-fcbf-4a78-a0d0-fd7eeac88ba2.png" alt="MongoDB" height="50" /></a> 
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a> 
-  <p>(can click on any to view its documentation)</p>
   </section>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=zevek&show_icons=true&theme=dracula" alt="stats" height="150"> -->
-  <hr><section align="center">
- 📫 You can contact me on LinkedIn: www.linkedin.com/in/adrianrsuarez/<br>
- 🌐 Or you can just send me an email to: suarezadrian.dev@gmail.com
-  <hr>
-  <b>Thank you for taking the time to look at my README, I will be updating it soon.</b> 😊
 
+Quieres saber más de mi? ¡Contáctame!
+WP: +57 3226400155
+Email: info3226400155@gmail.com
+
+
+
+  
