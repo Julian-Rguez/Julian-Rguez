@@ -29,7 +29,7 @@ Soy Julián Rodríguez de Colombia, tecnólogo en sistemas y Developer full Stac
 
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/107125191/221685458-89cd6aa7-fcbf-4a78-a0d0-fd7eeac88ba2.png" alt="MongoDB" height="50" /></a> 
   
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://desarrolloweb.com/storage/tag_images/actual/BzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png" alt="TypeScript" height="50" /></a> 
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a> 
   
   <p>(can click on any to view its documentation)</p>
   </section>
